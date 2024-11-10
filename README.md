@@ -1,4 +1,4 @@
-![Alt text](image_url_or_path)
+![Alt text](doctor2.png)
 
 Analyzing and Predicting COVID-19 Trends Using Our World in Data
 "Tracking COVID-19 Trends and Predictive Modeling: A Global Comparative Analysis with Our World in Data"
